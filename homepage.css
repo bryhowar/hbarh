@@ -38,3 +38,7 @@ p {
 .nav-button:hover {
 	background-color: #C4A250;
 }
+
+.weather-widget {
+	margin-top: 40px;
+}
